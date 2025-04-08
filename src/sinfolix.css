@@ -170,7 +170,7 @@ html {
   /* width: 5rem; */
   left: 25rem;
 }
-.section2 {
+/* .section2 {
   background-color: #1c1c38;
   height: 100vh;
 }
@@ -296,6 +296,193 @@ html {
   right: 205px;
 }
 /**/
+/* .section2 .white-box1 .award1-text1 {
+  position: absolute;
+  top: 68px;
+  right: 5rem;
+}
+
+.section2 .white-box2 .team2 {
+  position: absolute;
+  top: 1rem;
+  left: 2rem;
+}
+.section2 .white-box2 .team2-text2 {
+  position: absolute;
+  top: 22px;
+  left: 5rem;
+}
+
+.section2 .white-box2 .support2 {
+  position: absolute;
+  top: 4rem;
+  left: 2rem;
+}
+
+.section2 .white-box2 .support2-text2 {
+  position: absolute;
+  top: 68px;
+  left: 5rem;
+}
+.section2 .white-box2 .setup2 {
+  position: absolute;
+  top: 1rem;
+  right: 12rem;
+}
+.section2 .white-box2 .setup2-text2 {
+  position: absolute;
+  top: 22px;
+  right: 6rem;
+}
+
+
+.section2 .white-box2 .award2 {
+  position: absolute;
+  top: 4rem;
+  right: 205px;
+}
+.section2 .white-box2 .award2-text2 {
+  position: absolute;
+  top: 68px;
+  right: 5rem;
+} */ */
+
+/* new code */
+.section2 {
+  background-color: #1c1c38;
+  height: 100vh;
+}
+
+.section2 .circle {
+  position: absolute;
+  right: 3rem;
+  top: 125vh;
+  height: 11rem;
+  width: 11rem;
+}
+
+.section2 .about {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+  position: absolute;
+  top: 133vh;
+  right: 45rem;
+  background: linear-gradient(to right, #eb5c18, #f95055, #ca2db8);
+  border-radius: 100px;
+  height: 3.2rem;
+  width: 10rem;
+  font-size: 0.75rem;
+  color: #ffffff;
+}
+
+.section2 .about span {
+  position: absolute;
+  top: 1rem;
+  right: 5rem;
+}
+
+.section2 .arrow {
+  position: absolute;
+  top: 135.2vh;
+  right: 45.5rem;
+}
+
+.section2 .Laptoppg2  {
+  position: absolute;
+  right: 57rem;
+  top: 126vh;
+  height: 34rem;
+  width: 34rem;
+}
+
+.section2 .text {
+  position: absolute;
+  top: 145vh;
+  right: 28rem;
+  line-height: 3.2rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 2.5rem;
+}
+
+.section2 .text2 {
+  position: absolute;
+  color: #ffffffb2;
+  right: 26.5rem;
+  top: 168vh;
+  font-size: large;
+  letter-spacing: 1px;
+}
+
+.section2 .white-box1 {
+  height: 7rem;
+  width: 30rem;
+  background-color: #ffffff;
+  position: absolute;
+  right: 34.4rem;
+  top: 188vh;
+  border-radius: 10px;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+
+.section2 .white-box2 {
+  height: 7rem;
+  width: 30rem;
+  background-color: #ffffff;
+  position: absolute;
+  top: 188vh;
+  border-radius: 10px;
+  right: 3rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+}
+
+.section2 .white-box1 .team1 {
+  position: absolute;
+  top: 1rem;
+  left: 2rem;
+}
+.section2 .white-box1 .team1-text1 {
+  position: absolute;
+  top: 22px;
+  left: 5rem;
+}
+
+.section2 .white-box1 .support1 {
+  position: absolute;
+  top: 4rem;
+  left: 2rem;
+
+}
+
+.section2 .white-box1 .support1-text1 {
+  position: absolute;
+  top: 68px;
+  left: 5rem;
+}
+
+.section2 .white-box1 .setup1 {
+  position: absolute;
+  top: 1rem;
+  right: 12rem;
+}
+
+.section2 .white-box1 .setup1-text1 {
+  position: absolute;
+  top: 22px;
+  right: 0rem;
+  top: 22px;
+  right: 92px;
+}
+
+.section2 .white-box1 .award1 {
+  position: absolute;
+  top: 4rem;
+  right: 205px;
+}
+/**/
 .section2 .white-box1 .award1-text1 {
   position: absolute;
   top: 68px;
@@ -350,6 +537,158 @@ left: 40px;
   top: 68px;
   right: 5rem;
 }
+.section3 {
+  background-color: #1c1c38;
+  height: 50vh;
+}
+
+.section3-subpart {
+  position: absolute;
+  height: 35vh;
+  width: 84rem;
+  left: 8rem;
+  bottom: -64rem;
+  background: linear-gradient(to right, #19143c, #311234);
+  border-radius: 48px;
+}
+
+.section3 .section3-subpart span {
+  position: absolute;
+  left: 24rem;
+  top: 0.5vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 8rem;
+  color: transparent;
+  -webkit-text-stroke: 0.2px #ffffff55;
+  -webkit-text-fill-color: transparent;
+
+  /* Gradient border effect */
+  background: linear-gradient(to right, #19143c, #311234);
+  -webkit-background-clip: text;
+}
+
+.section3 .num1 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -58rem;
+  left: 13rem;
+  font-size: 5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .header1 {
+  position: absolute;
+  color: #ffffff;
+  left: 13rem;
+  bottom: -945px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .body1 {
+  position: absolute;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  left: 13rem;
+  bottom: -1017px;
+  text-align: center;
+}
+
+.section3 .num2 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -58rem;
+  left: 31rem;
+  font-size: 5rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .header2 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -945px;
+  left: 31rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .body2 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -1017px;
+  left: 31rem;
+  font-size: 14px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.section3 .num3 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -58rem;
+  font-size: 5rem;
+  left: 50rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .header3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  left: 50rem;
+  bottom: -945px;
+}
+
+.section3 .body3 {
+  position: absolute;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  left: 50rem;
+  font-size: 14px;
+  bottom: -1017px;
+  text-align: center;
+}
+
+.section3 .num4 {
+  position: absolute;
+  color: #ffffff;
+  bottom: -58rem;
+  font-size: 5rem;
+  left: 69rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.section3 .header4 {
+  position: absolute;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  left: 69rem;
+  bottom: -945px;
+}
+
+.section3 .body4 {
+  position: absolute;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  left: 69rem;
+  bottom: -1017px;
+  text-align: center;
+}
+
+
+
 .section3 {
   background-color: #1c1c38;
   height: 50vh;
